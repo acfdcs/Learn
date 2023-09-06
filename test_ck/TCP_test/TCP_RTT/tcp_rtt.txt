@@ -1,0 +1,4 @@
+Min lat为:18 usec
+Max lat为:166664 usec
+Avg lat为:1695 usec
+TCP往返时延RTT测试

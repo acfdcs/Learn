@@ -1,0 +1,8 @@
+------------------------------------------------------------
+Client connecting to 192.168.213.135, TCP port 5001
+TCP window size: 2.50 MByte (default)
+------------------------------------------------------------
+[  4] local 192.168.213.135 port 42668 connected with 192.168.213.135 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  4]  0.0-108.8 sec   355 MBytes  27.3 Mbits/sec
+TCP支持全双工通信

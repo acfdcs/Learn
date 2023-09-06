@@ -1,0 +1,81 @@
+------------------------------------------------------------
+Client connecting to 192.168.213.135, TCP port 5001
+TCP window size: 2.50 MByte (default)
+------------------------------------------------------------
+[  3] local 192.168.213.135 port 42654 connected with 192.168.213.135 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 1.0 sec  1.00 GBytes  8.60 Gbits/sec
+[  3]  1.0- 2.0 sec  1014 MBytes  8.51 Gbits/sec
+[  3]  2.0- 3.0 sec  1014 MBytes  8.51 Gbits/sec
+[  3]  3.0- 4.0 sec  1012 MBytes  8.49 Gbits/sec
+[  3]  4.0- 5.0 sec  1005 MBytes  8.43 Gbits/sec
+[  3]  5.0- 6.0 sec  1.00 GBytes  8.60 Gbits/sec
+[  3]  6.0- 7.0 sec  1015 MBytes  8.51 Gbits/sec
+[  3]  7.0- 8.0 sec  1.00 GBytes  8.60 Gbits/sec
+[  3]  8.0- 9.0 sec  1003 MBytes  8.42 Gbits/sec
+[  3]  9.0-10.0 sec  1014 MBytes  8.51 Gbits/sec
+[  3]  0.0-10.0 sec  9.92 GBytes  8.52 Gbits/sec
+TCP单流带宽速率测试
+------------------------------------------------------------
+Client connecting to 192.168.213.135, TCP port 5001
+TCP window size: 2.50 MByte (default)
+------------------------------------------------------------
+[  6] local 192.168.213.135 port 42662 connected with 192.168.213.135 port 5001
+[  3] local 192.168.213.135 port 42656 connected with 192.168.213.135 port 5001
+[  4] local 192.168.213.135 port 42658 connected with 192.168.213.135 port 5001
+[  5] local 192.168.213.135 port 42660 connected with 192.168.213.135 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  4]  0.0- 1.0 sec   272 MBytes  2.28 Gbits/sec
+[  3]  0.0- 1.0 sec   262 MBytes  2.20 Gbits/sec
+[  5]  0.0- 1.0 sec   262 MBytes  2.20 Gbits/sec
+[  6]  0.0- 1.0 sec   263 MBytes  2.20 Gbits/sec
+[SUM]  0.0- 1.0 sec  1.03 GBytes  8.88 Gbits/sec
+[  3]  1.0- 2.0 sec   254 MBytes  2.13 Gbits/sec
+[  5]  1.0- 2.0 sec   251 MBytes  2.10 Gbits/sec
+[  6]  1.0- 2.0 sec   251 MBytes  2.10 Gbits/sec
+[  4]  1.0- 2.0 sec   251 MBytes  2.11 Gbits/sec
+[SUM]  1.0- 2.0 sec  1007 MBytes  8.45 Gbits/sec
+[  5]  2.0- 3.0 sec   251 MBytes  2.10 Gbits/sec
+[  6]  2.0- 3.0 sec   251 MBytes  2.10 Gbits/sec
+[  4]  2.0- 3.0 sec   251 MBytes  2.10 Gbits/sec
+[  3]  2.0- 3.0 sec   258 MBytes  2.17 Gbits/sec
+[SUM]  2.0- 3.0 sec  1011 MBytes  8.48 Gbits/sec
+[  6]  3.0- 4.0 sec   251 MBytes  2.10 Gbits/sec
+[  4]  3.0- 4.0 sec   251 MBytes  2.10 Gbits/sec
+[  3]  3.0- 4.0 sec   251 MBytes  2.10 Gbits/sec
+[  5]  3.0- 4.0 sec   262 MBytes  2.20 Gbits/sec
+[SUM]  3.0- 4.0 sec  1014 MBytes  8.51 Gbits/sec
+[  5]  4.0- 5.0 sec   248 MBytes  2.08 Gbits/sec
+[  6]  4.0- 5.0 sec   251 MBytes  2.10 Gbits/sec
+[  4]  4.0- 5.0 sec   251 MBytes  2.10 Gbits/sec
+[  3]  4.0- 5.0 sec   251 MBytes  2.10 Gbits/sec
+[SUM]  4.0- 5.0 sec  1000 MBytes  8.39 Gbits/sec
+[  4]  5.0- 6.0 sec   251 MBytes  2.10 Gbits/sec
+[  3]  5.0- 6.0 sec   251 MBytes  2.10 Gbits/sec
+[  5]  5.0- 6.0 sec   254 MBytes  2.13 Gbits/sec
+[  6]  5.0- 6.0 sec   262 MBytes  2.20 Gbits/sec
+[SUM]  5.0- 6.0 sec  1017 MBytes  8.53 Gbits/sec
+[  3]  6.0- 7.0 sec   251 MBytes  2.10 Gbits/sec
+[  5]  6.0- 7.0 sec   251 MBytes  2.10 Gbits/sec
+[  6]  6.0- 7.0 sec   251 MBytes  2.10 Gbits/sec
+[  4]  6.0- 7.0 sec   262 MBytes  2.20 Gbits/sec
+[SUM]  6.0- 7.0 sec  1014 MBytes  8.51 Gbits/sec
+[  3]  7.0- 8.0 sec   258 MBytes  2.16 Gbits/sec
+[  5]  7.0- 8.0 sec   251 MBytes  2.10 Gbits/sec
+[  6]  7.0- 8.0 sec   251 MBytes  2.10 Gbits/sec
+[  4]  7.0- 8.0 sec   251 MBytes  2.10 Gbits/sec
+[SUM]  7.0- 8.0 sec  1011 MBytes  8.48 Gbits/sec
+[  3]  8.0- 9.0 sec   252 MBytes  2.11 Gbits/sec
+[  5]  8.0- 9.0 sec   251 MBytes  2.10 Gbits/sec
+[  6]  8.0- 9.0 sec   251 MBytes  2.10 Gbits/sec
+[  4]  8.0- 9.0 sec   251 MBytes  2.10 Gbits/sec
+[SUM]  8.0- 9.0 sec  1004 MBytes  8.42 Gbits/sec
+[  6]  9.0-10.0 sec   251 MBytes  2.10 Gbits/sec
+[  6]  0.0-10.0 sec  2.47 GBytes  2.12 Gbits/sec
+TCP四流带宽速率测试
+------------------------------------------------------------
+Client connecting to 192.168.213.135, TCP port 5001
+TCP window size: 2.50 MByte (default)
+------------------------------------------------------------
+[  4] local 192.168.213.135 port 42664 connected with 192.168.213.135 port 5001
+TCP支持全双工通信
